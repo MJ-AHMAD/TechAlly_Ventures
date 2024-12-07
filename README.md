@@ -98,7 +98,7 @@ We welcome contributions from everyone. To get started:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
-Please ensure your pull request adheres to our [Code of Conduct](https://mj-ahmad.github.io/TechAlly_Ventures/CC.md).
+Please ensure your pull request adheres to our [Code of Conduct](https://mj-ahmad.github.io/TechAlly_Ventures/CC).
 
 ## License
 
