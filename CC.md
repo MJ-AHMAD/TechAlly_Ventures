@@ -32,5 +32,5 @@ At **TRUSTED-ALLY**, we are committed to fostering a welcoming, inclusive, and r
 - **Continuous Improvement**: We are committed to continuously improving our Code of Conduct and ensuring it meets the needs of our community. Feedback and suggestions are always welcome.
 - **Education and Training**: We will provide education and training to all participants to promote understanding and adherence to this Code of Conduct.
 
-For more details, please visit our [Code of Conduct FAQ](https://mj-ahmad.github.io/TechAlly_Ventures/CC_FAQ.md).
+For more details, please visit our [Code of Conduct FAQ](https://mj-ahmad.github.io/TechAlly_Ventures/CC_FAQ).
 
