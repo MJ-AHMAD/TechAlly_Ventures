@@ -86,10 +86,6 @@ Developers can contribute to this project by following these steps:
 
 This project is licensed under the [MIT License](LICENSE).
 
-
-Absolutely! Here’s the updated README.md file that highlights TechAlly Ventures as a significant project under TRUSTED-ALLY, contributing to its primary goals and objectives:
-
-```markdown
 # TechAlly Ventures
 
 ### With a Vision for Tomorrow's Leaders by MJ-AHMAD
