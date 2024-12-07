@@ -13,4 +13,4 @@ All reports of misconduct are investigated promptly and thoroughly. The privacy 
 Yes, we welcome feedback and suggestions for improving our Code of Conduct. Please contact us with your thoughts and ideas.
 
 #### How can I learn more about the Code of Conduct?
-For more information, please refer to the full [CC](#code-of-conduct) document.
+For more information, please refer to the full [code-of-conduct](https://mj-ahmad.github.io/TechAlly_Ventures/CC.md) document.
