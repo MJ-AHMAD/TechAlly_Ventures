@@ -1,3 +1,7 @@
+<a href="https://marked.js.org">
+  <img width="60px" height="60px" src="https://marked.js.org/img/logo-black.svg" align="right" />
+</a>
+
 ### Code of Conduct
 
 At **TRUSTED-ALLY**, we are committed to fostering a welcoming, inclusive, and respectful environment for everyone involved in our projects. This Code of Conduct outlines our expectations for behavior and provides guidelines for reporting and addressing any issues that may arise.
